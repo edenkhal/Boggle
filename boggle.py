@@ -1,14 +1,8 @@
 #################################################################
 # FILE : boggle.py
-# WRITER : Eden Khalifa , eden_khalifa , 323065318
+# WRITER : Eden Khalifa
 # EXERCISE : intro2cs ex11 2022-2023
 # DESCRIPTION: A simple program that is a graphic interface of boggle.
-# STUDENTS I DISCUSSED THE EXERCISE WITH: Bugs Bunny, b_bunny.
-#								 	      Daffy Duck, duck_daffy.
-# WEB PAGES I USED: youtube for videos about tkinter 
-#NOTES: in my gui class i have two sub classes of start frame and end frame because they have a very specific 
-#       purpose but when it gets to the main frame in order to avoid circular imports 
-#       i made another class for it and created a object of it in BoggleGui class.
 #################################################################
 
 import tkinter as tki 
