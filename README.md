@@ -4,10 +4,10 @@ The project requires developing both the game logic and the GUI for Boggle, foll
 
 # Game Rules
 # Game Board
-The Boggle game board is a 4x4 grid of cubes, each cube displaying a letter.
-Each position on the board is defined by a pair of indices (x, y), where y is the row number and x is the column number.
-The top-left corner of the board is at (0,0), and the bottom-right corner is at (3,3).
-At the start of the game, a random 4x4 board is generated.
+* The Boggle game board is a 4x4 grid of cubes, each cube displaying a letter.
+* Each position on the board is defined by a pair of indices (x, y), where y is the row number and x is the column number.
+* The top-left corner of the board is at (0,0), and the bottom-right corner is at (3,3).
+* At the start of the game, a random 4x4 board is generated.
 # Gameplay
 * The game has a single player.
 * The player has 3 minutes to find as many valid words as possible on the board.
