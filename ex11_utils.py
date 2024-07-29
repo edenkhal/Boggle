@@ -1,12 +1,8 @@
 #################################################################
 # FILE : ex11_utils.py
-# WRITER : Eden Khalifa , eden_khalifa , 323065318
+# WRITER : Eden Khalifa
 # EXERCISE : intro2cs ex11 2022-2023
 # DESCRIPTION: A simple program that is a graphic interface of boggle.
-# STUDENTS I DISCUSSED THE EXERCISE WITH: Bugs Bunny, b_bunny.
-#								 	      Daffy Duck, duck_daffy.
-# WEB PAGES I USED: youtube for videos about tkinter 
-
 #################################################################
 
 
