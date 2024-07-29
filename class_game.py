@@ -1,13 +1,9 @@
 
 #################################################################
 # FILE : class_game.py
-# WRITER : Eden Khalifa , eden_khalifa , 323065318
+# WRITER : Eden Khalifa
 # EXERCISE : intro2cs ex11 2022-2023
 # DESCRIPTION: A simple program that is a boggle "rules".
-# STUDENTS I DISCUSSED THE EXERCISE WITH: Bugs Bunny, b_bunny.
-#								 	      Daffy Duck, duck_daffy.
-# WEB PAGES I USED: youtube for videos about tkinter 
-
 #################################################################
 import boggle_board_randomizer
 import ex11_utils
